@@ -1,7 +1,7 @@
 # golang-psbigpicure-code
 
 ```sh
-go new module demo
+go mod init demo
 ```
 
 ```sh
