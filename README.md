@@ -19,3 +19,16 @@ Running the CLI:
 ```sh
 go run . -level DEBUG
 ```
+
+Other notes:
+
+```
+# Frameworks - Network
+Go kit (gokit.io)
+Gin (gin-gonic.com)
+Gorilla Toolkit (gorillatoolkit.org)
+
+# CLIs
+Cobra (github.com/spf13/cobra)
+Standard library (pkg.go.dev/std)
+```
