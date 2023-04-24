@@ -1,28 +1,13 @@
-# golang-psbigpicure-code
+Very simple examples from the Pluralsight Big Picture course.
 
-Very simple examples from the PS Big Picture course.
+To init a module: go mod init demo
 
-To init a module:
+Running the web server: go run .
 
-```sh
-go mod init demo
-```
-
-Running the web server:
-
-```sh
-go run .
-```
-
-Running the CLI:
-
-```sh
-go run . -level DEBUG
-```
+Running the CLI: go run . -level DEBUG
 
 Other notes:
 
-```
 # Frameworks - Network
 Go kit (gokit.io)
 Gin (gin-gonic.com)
@@ -31,4 +16,3 @@ Gorilla Toolkit (gorillatoolkit.org)
 # CLIs
 Cobra (github.com/spf13/cobra)
 Standard library (pkg.go.dev/std)
-```
