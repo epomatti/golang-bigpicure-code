@@ -1,10 +1,8 @@
 Very simple examples from the Pluralsight Big Picture course.
 
-To init a module: go mod init demo
-
-Running the web server: go run .
-
-Running the CLI: go run . -level DEBUG
+- To init a module: go mod init demo
+- Running the web server: go run .
+- Running the CLI: go run . -level DEBUG
 
 Other notes:
 
